@@ -6,3 +6,5 @@
 * [20221204122753](/aws-saa-c03/20221204122753/) Elastic Cloud Compute (EC2)
 * [20221205171813](/aws-saa-c03/20221205171813/) Elastic Block Storage (EBS) / Elastic File System (EFS)
 * [20221208210554](/aws-saa-c03/20221208210554/) Databases 
+* [20230210110617](/aws-saa-c03/20230210110617/) Virtual Private Cloud (VPC)
+* [20230212133907](/aws-saa-c03/20230212133907/) Route 53
