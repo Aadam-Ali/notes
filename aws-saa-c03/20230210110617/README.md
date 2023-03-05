@@ -24,7 +24,7 @@
   * Longer setup
 
 
-### NAT Gateway
+### NAT Gateway
 
 * Used to allow instances in private subnets to connect to the internet
   or other AWS services without allowing inbound connections from the
@@ -57,7 +57,7 @@
 * They are stateless, responses to inbound traffic are dependant on
   rules for outbound traffic and vice versa
 
-### VPC Endpoints
+### VPC Endpoints
 
 * Enables private connections between a VPC to supported AWS Services
   and VPC endpoint services powered by PrivateLink without IGW, NAT GW,
@@ -73,7 +73,7 @@
   * Gateway endpoints - A virtual device provisioned by a user, supports
     S3 and DynamoDB
 
-### VPC Peering
+### VPC Peering
 
 * Allows the connection of one VPC with another via a direct network
   route using private IP addresses
@@ -98,7 +98,7 @@
 * Operates over the internet, all traffic between a customer GW and
   CloudHub is encrypted
 
-### Direct Connect
+### Direct Connect
 
 * A dedicated network connection between on premises and AWS
 * Can reduce network costs, increase throughput, improve connection
