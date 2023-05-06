@@ -11,3 +11,4 @@
 * [20230305150147](/aws-saa-c03/20230305150147/) Elastic Load Balancing (ELB)
 * [20230307172701](/aws-saa-c03/20230307172701/) Monitoring
 * [20230309161615](/aws-saa-c03/20230309161615/) High Availability and Scaling
+* [20230503183930](/aws-saa-c03/20230503183930/) Decoupling Workflows
