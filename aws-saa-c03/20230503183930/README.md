@@ -228,3 +228,7 @@
     * Migrating Zendesk and other help desk support tickets to Snowflake
     * Transferring aggregate data on scheduled basis to S3 (up to 100GB
       per flow)
+
+Tags:
+
+  #aws #saa-c03 #sqs #sns #apigateway

@@ -54,3 +54,7 @@
 * If a health check fails, the records set is removed until the health
   check passes
 * Can configure SNS notifications to alert when health checks fail
+
+Tags:
+
+  #aws #saa-c03 #route53 #dns

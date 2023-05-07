@@ -133,3 +133,7 @@
 
 * Embeds AWS compute and storage services within 5G networks
 * Provides mobile edge computing infrastructure for ultra-low-latency applications
+
+Tags:
+
+  #aws #saa-c03 #vpc #networking

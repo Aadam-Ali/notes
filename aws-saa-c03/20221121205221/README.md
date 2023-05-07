@@ -39,5 +39,5 @@
 * Identity Federation - Uses the SAML standard, essentialy, AD
 
 Tags:
-  
+
   #aws #saa-c03 #iam

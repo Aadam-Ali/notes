@@ -84,3 +84,7 @@
 * Can switch between On-Demand and Provisioned once every 24 hours
 * Avoiding hot keys will lead to better performance
 * Consider cost when deciding which table to use
+
+Tags:
+
+  #aws #saa-c03 #asg #highavailability #autoscaling

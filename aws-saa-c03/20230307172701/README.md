@@ -56,3 +56,7 @@
 * Can use the open source PromQL to analyse and extract data
 * Workspaces retain data for 150 days (after which data is automatically
   deleted)
+
+Tags:
+
+  #aws #saa-c03 #cloudwatch #monitoring #logging

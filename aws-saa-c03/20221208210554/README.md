@@ -99,5 +99,5 @@
   relational databases
 
 Tags:
-  
+
   #aws #saa-c03 #databases #rds #dynamodb

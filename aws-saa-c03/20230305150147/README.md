@@ -70,3 +70,7 @@
 * Allows LBs to complete in-flight requests made to de-registering or
   unhealthy instances
 * Can be disabled if you want connections to be closed immediately
+
+Tags:
+
+  #aws #saa-c03 #elb #loadbalancers
