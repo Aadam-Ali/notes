@@ -13,3 +13,4 @@
 * [20230309161615](/aws-saa-c03/20230309161615/) High Availability and Scaling
 * [20230503183930](/aws-saa-c03/20230503183930/) Decoupling Workflows
 * [20230511170245](/aws-saa-c03/20230511170245/) Big Data
+* [20230520143731](/aws-saa-c03/20230520143731/) Serverless Architecture
