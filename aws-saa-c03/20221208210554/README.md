@@ -1,4 +1,4 @@
-# Databases 
+# Databases
 
 ### Relational Database Service (RDS) Fundamentals
 

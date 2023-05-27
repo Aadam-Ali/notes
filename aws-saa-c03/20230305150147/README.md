@@ -5,10 +5,10 @@
 * ELB distributes incoming traffic across a set of targets, can be done
   across AZs
 * Application Load Balancer - best for HTTP(S), operates at layer 7
-  (application), and are application aware; ALB is an intelligent LB 
+  (application), and are application aware; ALB is an intelligent LB
 * Network Load Balancer - Operates at layer 4 (transport), capable of
   handling millions of requests per second with ultra low latencies;
-  NLB is a performance LB 
+  NLB is a performance LB
 * Classic Load Balancer - Legacy LB, can load balance HTTP(S) apps while
   using L7 specific features (X-Forwarded and sticky sessions); CLB is a
   classic/dev/test LB
@@ -62,7 +62,7 @@
 * Applied to CLBs
 * Allows you to bind a user's session to a specific instance, useful
   when session data is stored on the instance
-* Can be applied to ALBs, however, the stickiness is applied to the 
+* Can be applied to ALBs, however, the stickiness is applied to the
   target group rather than a specific target
 
 ### Deregistration Delay

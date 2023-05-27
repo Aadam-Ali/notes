@@ -4,7 +4,7 @@
 
 * Vertical scaling is increasing the size (e.g. using a bigger EC2
   instance type)
-* Horizontal scaling is increasing the amount 
+* Horizontal scaling is increasing the amount
 * Horizontal scaling is more suitable for HA systems
 
 ### The 3 W's of Scaling

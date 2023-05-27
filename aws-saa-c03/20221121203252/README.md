@@ -24,9 +24,9 @@
   Accelerator
 
 Related:
-  
+
   * Well-Architected Framework White Paper <https://docs.aws.amazon.com/pdfs/wellarchitected/latest/framework/wellarchitected-framework.pdf#welcome>
 
 Tags:
 
-  #aws #saa-c03 
+  #aws #saa-c03

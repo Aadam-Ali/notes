@@ -81,7 +81,7 @@
 * FSx for Windows - when you need centralized storage for Windows based
   applications such as Sharepoint and other native Microsoft applications
 * FSx for Lustre - when you need high performance (speed), high capacity
-  distributed storage e.g. HPC, machine learning etc. Can store data 
+  distributed storage e.g. HPC, machine learning etc. Can store data
   directly on S3.
 
 ### AMIs - EBS vs Instance Store
@@ -91,7 +91,7 @@
   is lost
 * EC2 instances using EBS volumes can be stopped without losing data
 * You can reboot both EBS and Instance Store backed instances
-* By default both volume types are deleted on termination of an EC2 
+* By default both volume types are deleted on termination of an EC2
   instance, EBS provides an option to keep the root device volume
 
 ### AWS Backup

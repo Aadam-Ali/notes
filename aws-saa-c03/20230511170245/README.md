@@ -142,4 +142,4 @@
 Tags:
 
   #aws #saa-c03 #emr #redshift #kinesis #athena #datapipeline #msk
-  #opensearch 
+  #opensearch
