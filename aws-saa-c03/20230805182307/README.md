@@ -147,3 +147,7 @@
   * Integrating translation services into an application
   * When needing a cost-effective translation service
   * Scalable translation services
+
+Tags:
+
+  #aws #saa-c03 #machinelearning #sagemaker #rekognition

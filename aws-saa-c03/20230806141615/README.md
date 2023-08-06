@@ -22,3 +22,7 @@
   * Smart home e.g. camera doorbells
   * Smart cities
   * Industrial automation
+
+Tags:
+
+  #aws #saa-c03 #media #elastictranscoder #kinesisvideostreams

@@ -188,3 +188,7 @@
 * Recovery Time Objective (RTO) - usually just minutes; depends on OS
   boot time
 * Recovery Point Objective (RPO) - measure in the sub-second range
+
+Tags:
+
+  #aws #saa-c03 #migration #snowfamily #datasync

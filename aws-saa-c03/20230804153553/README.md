@@ -48,4 +48,8 @@
       messages
     * Machine learning - use ML models to predict user patterns
 * Primarily used for marketing, transaction messages, and bulk messaging
-  uesrs
+  users
+
+Tags:
+
+  #aws #saa-c03 #frontend #mobile #amplify #devicefarm #pinpoint
