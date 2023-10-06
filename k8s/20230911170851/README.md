@@ -1,11 +1,11 @@
 # Pods
 
-### What are Pods?
+## What are Pods?
 
 * A Pod is where deployed apps run
 * Run `kubectl explain pods --recursive` to find out more information
 
-### Pod features
+## Pod features
 
 * Labels - attach identifying data, can be used to group Pods and
   associate them with other objects
@@ -20,7 +20,7 @@
 * Resources requests and limits - allows you to specify minimum and
   maximum values for resources
 
-### Shared resources
+## Shared resources
 
 * Pods allow containers to share resources e.g. filesystem, network
   stack, memory, and volumes
@@ -47,12 +47,12 @@ metadata:
   i.e. no self healing
 * Directly managed by a kubelet daemon on a single node
 
-### Controller Pods
+## Controller Pods
 
 * Have the benefits of being managed by a controller
 * The generally used way of managing Pods
 
-### Deploying a Pod
+## Deploying a Pod
 
 1. Define a manifest
 1. POST the YAML to the API server
@@ -62,7 +62,7 @@ metadata:
 1. The local kubelet daemon monitors it
 * Pod deployments are atomic
 
-### Pod anatomy
+## Pod anatomy
 
 * Pods share the same namespaces:
   * net namespace - virtualised network stack
@@ -72,7 +72,7 @@ metadata:
     names
   * IPC (Inter-process Communication) namespace - manages shared memory
 
-### Pod network
+## Pod network
 
 * All Pods get a unique IP address that is fully routable on an internal
   kubernetes network
@@ -82,7 +82,7 @@ metadata:
 * Default pod network is not secure and should be tightened with
   Kubernetes Network Policies
 
-### Types of Pod workloads
+## Types of Pod workloads
 
 * Long-lived Pods are ones which should stay running indefinitely, the
   kubelet should attempt to restart them should they fail - restart
@@ -93,12 +93,12 @@ metadata:
   and DaemonSets`
 * Short-lived workload controllers include `Jobs, and CronJobs`
 
-### Scaling
+## Scaling
 
 * Since Pods run a single application container instance, they scale
   horizontally i.e. new Pods are added or removed
 
-### Multicontainer Pods
+## Multicontainer Pods
 
 * Multiple containers should be used to 'seperate concerns'
 * Multicontainer Pods can be used to ensure tightly coupled process can
