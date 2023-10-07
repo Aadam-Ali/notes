@@ -9,6 +9,6 @@ repos:
     hooks:
     - id: generate-content-pages
       name: generate-content-pages
-      entry: bash -c 'nb generate-readme-files'
+      entry: bash -c 'notes generate-readme-files'
       language: system
       pass_filenames: false
