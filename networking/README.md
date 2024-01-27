@@ -1,3 +1,4 @@
 # networking
 
 * 20240127142906 [OSI Model](20240127142906.md)
+* 20240127145255 [OSI Model Application Layer (7)](20240127145255.md)
