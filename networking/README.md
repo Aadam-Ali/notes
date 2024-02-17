@@ -1,3 +1,7 @@
+---
+title: networking
+---
+
 # networking
 
 * 20240127142906 [OSI Model](20240127142906.md)

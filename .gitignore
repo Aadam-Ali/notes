@@ -1,0 +1,11 @@
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/config
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/core-plugins-migration.json
+!.obsidian/graph.json
+!.obsidian/hotkeys.json
+!.obsidian/plugins/obsidian-excalidraw-plugin/data.json
+!.obsidian/plugins/obsidian-front-matter-title-plugin/data.json
