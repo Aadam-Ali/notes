@@ -1,5 +1,5 @@
 # Notes
 
-* [aws-saa-c03](aws-saa-c03/README.md)
+* [aws](aws/README.md)
 * [k8s](k8s/README.md)
 * [networking](networking/README.md)

@@ -1,8 +1,8 @@
 ---
-title: aws-saa-c03
+title: aws
 ---
 
-# aws-saa-c03
+# aws
 
 * 20221121203252 [AWS Fundamentals](20221121203252.md)
 * 20221121205221 [Identity and Access Management (IAM)](20221121205221.md)
