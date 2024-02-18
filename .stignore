@@ -1,0 +1,4 @@
+.git/
+.pre-commit-config.yaml
+LICENSE
+.gitignore
