@@ -86,7 +86,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "2.0.20",
+  "previousRelease": "2.0.21",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -405,7 +405,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 0,
+  "numberOfCustomPens": 10,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 20,
@@ -726,5 +726,6 @@
     }
   },
   "slidingPanesSupport": false,
-  "areaZoomLimit": 1
+  "areaZoomLimit": 1,
+  "focusOnFileTab": false
 }
